@@ -2,6 +2,9 @@
 
 I was learning maze generation for my next game so I decided to use p5js to make a simple maze generator using recursive backtracking algotithm. I'll soon upload a unity project too.
 
+## Live Implementation
+[Maze Generator](https://shivamchhapola.github.io/Maze-Generator/)
+
 ## How to use?
 
 - Open the index.html file in your browser and a maze will generate right in front of you.
