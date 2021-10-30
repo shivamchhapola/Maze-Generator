@@ -2,7 +2,7 @@
 
 var cW = 600; //Change this to change canvas width
 var cH = 600; //Change this to change canvas height
-var size = 20; //Change this to change cell size
+var size = 5; //Change this to change cell size
 
 var cols, rows;
 var grid = [];
